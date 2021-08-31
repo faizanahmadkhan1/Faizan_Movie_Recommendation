@@ -1,7 +1,7 @@
 {
-  "name": "movie-recommendation",
+  "name": "movie-recommendation-app",
   "version": "1.0.0",
-  "description": "Recommends you movies based on your taste.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
